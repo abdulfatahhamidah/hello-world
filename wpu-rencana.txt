@@ -3,6 +3,9 @@ rencana konten di github saya
 - belajar
  * java
  * python
+  > python for data science
  * oop
 - belajar fundamental data struktur
 - opensource
+- materi data science
+ * math for data science
