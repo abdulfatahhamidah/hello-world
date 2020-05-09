@@ -1,4 +1,7 @@
 rencana konten di github saya
 - project
-- belaja
+- belajar
+ * java
+ * python
+ * oop
 - opensource
