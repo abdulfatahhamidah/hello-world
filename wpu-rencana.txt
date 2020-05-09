@@ -7,4 +7,5 @@ rencana konten di github saya
  * oop
 - belajar fundamental data struktur
 - opensource
--materi data science
+- materi data science
+ * math for data science
